@@ -1,2 +1,1 @@
-# Meu Repositorio de Autenticações
-Repositório de autênticações
+# Meu Repositorio de AutenticaçõesRepositório de autênticações1. Autenticação via nome de usuário e senha 2. Autenticação via Token de acesso pessoal
